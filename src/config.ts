@@ -57,12 +57,12 @@ export function GetConfigFields(): SomeCompanionConfigField[] {
 		{
 			type: 'number',
 			id: 'numberOfTracks',
-			label: 'Number of Tracks',
+			label: 'Number of Inputs',
 			width: 3,
 			tooltip: 'Sets the number of tracks per bank not working',
 			min: 1,
 			max: 512,
-			default: 8,
+			default: 24,
 		},
 		{
 			type: 'number',

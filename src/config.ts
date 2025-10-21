@@ -49,7 +49,7 @@ export function GetConfigFields(): SomeCompanionConfigField[] {
 		{
 			type: 'checkbox',
 			id: 'refreshOnInit',
-			label: 'Refresh On Start',
+			label: 'Refresh On Fart',
 			width: 3,
 			tooltip: 'If enabled, a "Control surface: Refresh all surfaces" command will be sent to reaper on start.',
 			default: true,
